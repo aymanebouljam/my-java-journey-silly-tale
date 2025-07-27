@@ -1,0 +1,52 @@
+# VS Code settings folder
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Java build folders
+/target/
+/build/
+
+# Compiled class files
+*.class
+
+# Archives
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Maven wrapper
+/.mvn/
+mvnw
+mvnw.cmd
+
+# Gradle wrapper
+/gradle/
+gradlew
+gradlew.bat
+
+# Environment variable files
+.env
+
+# Eclipse IDE files (optional)
+/.settings/
+/.classpath
+/.project
+
+# OS files
+.DS_Store
+Thumbs.db
+.AppleDouble
+.AppleDesktop
+ehthumbs.db
+Desktop.ini
